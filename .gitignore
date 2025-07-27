@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cython debug symbols
+cython_debug/
+
+# Kivy / KivyMD cache & build
+.buildozer/
+*.apk
+*.build/
+*.dist/
+
+# VSCode & PyCharm config
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Test outputs
+*.out
+
+# Python virtualenv
+venv/
+.env/
+ENV/
