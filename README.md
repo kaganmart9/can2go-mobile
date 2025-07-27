@@ -151,7 +151,7 @@ While this is the **first usable prototype**, the project is designed to be modu
 
 Developed by Ali Kağan Mart  
 *Software Engineer @Temsa Skoda Transportation*  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/kaganmart9) or reach out for collaborations!
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/kaganmart9) or reach out for collaborations!
 
 ---
 
